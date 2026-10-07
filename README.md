@@ -1,1 +1,1 @@
-# freecodecamp-learning-resources
+# learning-resources
